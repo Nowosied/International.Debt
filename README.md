@@ -1,5 +1,6 @@
+<img src="https://github.com/Nowosied/International.Debt/assets/149282488/7fe97bbc-c549-4784-8d74-67680253b579" width="400" height="200">
 
-# **International Debt Statistics**
+# **International Debt Statistics** 
 
 **Platform**: DataCamp
 
@@ -23,7 +24,9 @@ Leveraging SQL's querying capabilities to navigate and manipulate relational dat
 
 **Significance**: Unveiling crucial insights into global financial trends and inter-country borrowing dynamics.
 
-<img src="https://github.com/Nowosied/International.Debt/assets/149282488/7fe97bbc-c549-4784-8d74-67680253b579" width="400" height="200">
+# **Snapshot of the database**
+<img src="https://github.com/Nowosied/International.Debt/assets/149282488/10d88ac7-0946-4275-9843-ddc46240bbbe" width="700" height="300">
+
 
 1. --num_distinct_countries
 SELECT COUNT(DISTINCT country_name) AS num_distinct_countries
