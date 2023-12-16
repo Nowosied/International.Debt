@@ -1,9 +1,12 @@
 
 # **International Debt Statistics**
+
 **Platform**: DataCamp
+
 **Data Source**: [worldbank.com](https://www.worldbank.org)
 
 **Objective**: Utilizing SQL to analyze and extract insights from extensive international debt datasets.
+
 **Key Tasks**:
 Answering six fundamental questions about international debt dynamics.
 Leveraging SQL's querying capabilities to navigate and manipulate relational databases.
@@ -17,10 +20,13 @@ Leveraging SQL's querying capabilities to navigate and manipulate relational dat
 
 
 **Software Used**: SQL for data querying and analysis.
+
 **Significance**: Unveiling crucial insights into global financial trends and inter-country borrowing dynamics.
 
+<img src="https://github.com/Nowosied/International.Debt/assets/149282488/7fe97bbc-c549-4784-8d74-67680253b579" width="400" height="200">
 
-<img src="https://github.com/Nowosied/International.Debt/assets/149282488/7fe97bbc-c549-4784-8d74-67680253b579" width="600" height="300">
+
+
 
 
 
