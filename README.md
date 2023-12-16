@@ -1,9 +1,7 @@
 
 # **International Debt Statistics**
-
 **Platform**: DataCamp
-
-**Data Source**: worldbank.com
+**Data Source**: [worldbank.com](https://www.worldbank.org)
 
 **Objective**: Utilizing SQL to analyze and extract insights from extensive international debt datasets.
 **Key Tasks**:
